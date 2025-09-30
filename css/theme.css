@@ -1,0 +1,38 @@
+:root {
+
+ --font-sora: "Sora", sans-serif;    
+ --font-heebo: "Heebo", sans-serif;
+ --font-figtree: "Figtree", sans-serif;
+ --font-utility: 'utilityboldcondensed';
+
+ /* color */
+  --primary: #1DA7FB;
+  --seccondary: #1A1A1A;
+  --header-text: #353639;
+  --text: #444444;
+  --btn-hover: #1B6F9C;
+
+  --white: #fff;
+  --black: #000;
+
+  --gray-50: #E7E7E7;
+  --gray-100: #F4F5F7;
+  --gray-200: #D9D9D9;
+  --gray-400: #B9B9B9;
+  --gray-800: #636778;
+  --gray-200-rgb: 217, 217, 217;
+
+  /* font-size */
+  --sm: 14px;
+  --base: 16px;
+  --lg:18px;
+  --xl:20px;
+
+  /* font-weight */
+  --fw300: 300;
+  --fw400: 400;
+  --fw500: 500;
+  --fw600: 600;
+  --fw700: 700;
+
+}
